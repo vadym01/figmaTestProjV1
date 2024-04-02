@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct FigmaTestProjApp: App {
+    
+    @StateObject var router = Router()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(router)
         }
     }
 }

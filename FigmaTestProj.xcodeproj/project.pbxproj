@@ -7,18 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		933595E62BBBC4CD00ABA1B7 /* MainBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933595E52BBBC4CD00ABA1B7 /* MainBackground.swift */; };
+		933595E82BBBCCD300ABA1B7 /* hc6 s.json in Resources */ = {isa = PBXBuildFile; fileRef = 933595E72BBBCCD300ABA1B7 /* hc6 s.json */; };
+		933595EC2BBBE2DF00ABA1B7 /* ScanResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933595EB2BBBE2DF00ABA1B7 /* ScanResultView.swift */; };
+		933595EE2BBC043900ABA1B7 /* DeviceDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933595ED2BBC043900ABA1B7 /* DeviceDetailsView.swift */; };
+		933595F02BBC360C00ABA1B7 /* MagneticDetection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933595EF2BBC360C00ABA1B7 /* MagneticDetection.swift */; };
 		9358F9F82BBADD0100234BE2 /* FigmaTestProjApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9358F9F72BBADD0100234BE2 /* FigmaTestProjApp.swift */; };
 		9358F9FA2BBADD0100234BE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9358F9F92BBADD0100234BE2 /* ContentView.swift */; };
 		9358F9FC2BBADD0300234BE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9358F9FB2BBADD0300234BE2 /* Assets.xcassets */; };
 		9358F9FF2BBADD0300234BE2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9358F9FE2BBADD0300234BE2 /* Preview Assets.xcassets */; };
+		9358FA0A2BBAE03700234BE2 /* PurpuleRoundedBtnStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9358FA092BBAE03700234BE2 /* PurpuleRoundedBtnStyle.swift */; };
+		93AE273B2BBAEDD40041E43B /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 93AE273A2BBAEDD40041E43B /* Lottie */; };
+		93AE273D2BBB2F980041E43B /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE273C2BBB2F980041E43B /* FontExtension.swift */; };
+		93AE273F2BBB37BE0041E43B /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE273E2BBB37BE0041E43B /* Router.swift */; };
+		93AE27412BBB38C10041E43B /* NetworkScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE27402BBB38C10041E43B /* NetworkScanView.swift */; };
+		93AE27432BBB3CA50041E43B /* NetworkScanerVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE27422BBB3CA50041E43B /* NetworkScanerVM.swift */; };
+		93AE27452BBB3CE60041E43B /* NetworkDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE27442BBB3CE60041E43B /* NetworkDevice.swift */; };
+		93AE27472BBB419F0041E43B /* networkDevices.json in Resources */ = {isa = PBXBuildFile; fileRef = 93AE27462BBB419F0041E43B /* networkDevices.json */; };
+		93B05AFA2BBC8BC700485B74 /* NavigationPathEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B05AF92BBC8BC700485B74 /* NavigationPathEnum.swift */; };
+		93B05AFC2BBC8C0000485B74 /* MainScreenButtonsEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B05AFB2BBC8C0000485B74 /* MainScreenButtonsEnum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		933595E52BBBC4CD00ABA1B7 /* MainBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainBackground.swift; sourceTree = "<group>"; };
+		933595E72BBBCCD300ABA1B7 /* hc6 s.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "hc6 s.json"; path = "../../../../../Downloads/Telegram Desktop/hc6 s.json"; sourceTree = "<group>"; };
+		933595EB2BBBE2DF00ABA1B7 /* ScanResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanResultView.swift; sourceTree = "<group>"; };
+		933595ED2BBC043900ABA1B7 /* DeviceDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceDetailsView.swift; sourceTree = "<group>"; };
+		933595EF2BBC360C00ABA1B7 /* MagneticDetection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagneticDetection.swift; sourceTree = "<group>"; };
 		9358F9F42BBADD0100234BE2 /* FigmaTestProj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FigmaTestProj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9358F9F72BBADD0100234BE2 /* FigmaTestProjApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaTestProjApp.swift; sourceTree = "<group>"; };
 		9358F9F92BBADD0100234BE2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9358F9FB2BBADD0300234BE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9358F9FE2BBADD0300234BE2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9358FA092BBAE03700234BE2 /* PurpuleRoundedBtnStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurpuleRoundedBtnStyle.swift; sourceTree = "<group>"; };
+		93AE273C2BBB2F980041E43B /* FontExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontExtension.swift; sourceTree = "<group>"; };
+		93AE273E2BBB37BE0041E43B /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		93AE27402BBB38C10041E43B /* NetworkScanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkScanView.swift; sourceTree = "<group>"; };
+		93AE27422BBB3CA50041E43B /* NetworkScanerVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkScanerVM.swift; sourceTree = "<group>"; };
+		93AE27442BBB3CE60041E43B /* NetworkDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkDevice.swift; sourceTree = "<group>"; };
+		93AE27462BBB419F0041E43B /* networkDevices.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = networkDevices.json; sourceTree = "<group>"; };
+		93B05AF92BBC8BC700485B74 /* NavigationPathEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPathEnum.swift; sourceTree = "<group>"; };
+		93B05AFB2BBC8C0000485B74 /* MainScreenButtonsEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenButtonsEnum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93AE273B2BBAEDD40041E43B /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,6 +81,10 @@
 		9358F9F62BBADD0100234BE2 /* FigmaTestProj */ = {
 			isa = PBXGroup;
 			children = (
+				93AE27382BBAECCA0041E43B /* Resources */,
+				9358FA072BBADE8D00234BE2 /* Model */,
+				9358FA062BBADE8100234BE2 /* ViewModel */,
+				9358FA052BBADE7800234BE2 /* View */,
 				9358F9F72BBADD0100234BE2 /* FigmaTestProjApp.swift */,
 				9358F9F92BBADD0100234BE2 /* ContentView.swift */,
 				9358F9FB2BBADD0300234BE2 /* Assets.xcassets */,
@@ -65,6 +99,64 @@
 				9358F9FE2BBADD0300234BE2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9358FA052BBADE7800234BE2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9358FA082BBADFDF00234BE2 /* ViewExtension */,
+				93AE27402BBB38C10041E43B /* NetworkScanView.swift */,
+				933595E52BBBC4CD00ABA1B7 /* MainBackground.swift */,
+				933595EB2BBBE2DF00ABA1B7 /* ScanResultView.swift */,
+				933595ED2BBC043900ABA1B7 /* DeviceDetailsView.swift */,
+				933595EF2BBC360C00ABA1B7 /* MagneticDetection.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9358FA062BBADE8100234BE2 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				93AE273E2BBB37BE0041E43B /* Router.swift */,
+				93AE27422BBB3CA50041E43B /* NetworkScanerVM.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		9358FA072BBADE8D00234BE2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				93B05AFD2BBC8C2000485B74 /* EnumModel */,
+				93AE27442BBB3CE60041E43B /* NetworkDevice.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9358FA082BBADFDF00234BE2 /* ViewExtension */ = {
+			isa = PBXGroup;
+			children = (
+				9358FA092BBAE03700234BE2 /* PurpuleRoundedBtnStyle.swift */,
+				93AE273C2BBB2F980041E43B /* FontExtension.swift */,
+			);
+			path = ViewExtension;
+			sourceTree = "<group>";
+		};
+		93AE27382BBAECCA0041E43B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				933595E72BBBCCD300ABA1B7 /* hc6 s.json */,
+				93AE27462BBB419F0041E43B /* networkDevices.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		93B05AFD2BBC8C2000485B74 /* EnumModel */ = {
+			isa = PBXGroup;
+			children = (
+				93B05AF92BBC8BC700485B74 /* NavigationPathEnum.swift */,
+				93B05AFB2BBC8C0000485B74 /* MainScreenButtonsEnum.swift */,
+			);
+			path = EnumModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +175,9 @@
 			dependencies = (
 			);
 			name = FigmaTestProj;
+			packageProductDependencies = (
+				93AE273A2BBAEDD40041E43B /* Lottie */,
+			);
 			productName = FigmaTestProj;
 			productReference = 9358F9F42BBADD0100234BE2 /* FigmaTestProj.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +206,9 @@
 				Base,
 			);
 			mainGroup = 9358F9EB2BBADD0100234BE2;
+			packageReferences = (
+				93AE27392BBAEDD40041E43B /* XCRemoteSwiftPackageReference "lottie-spm" */,
+			);
 			productRefGroup = 9358F9F52BBADD0100234BE2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,7 +223,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93AE27472BBB419F0041E43B /* networkDevices.json in Resources */,
 				9358F9FF2BBADD0300234BE2 /* Preview Assets.xcassets in Resources */,
+				933595E82BBBCCD300ABA1B7 /* hc6 s.json in Resources */,
 				9358F9FC2BBADD0300234BE2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +237,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9358FA0A2BBAE03700234BE2 /* PurpuleRoundedBtnStyle.swift in Sources */,
 				9358F9FA2BBADD0100234BE2 /* ContentView.swift in Sources */,
+				93B05AFC2BBC8C0000485B74 /* MainScreenButtonsEnum.swift in Sources */,
+				93AE273F2BBB37BE0041E43B /* Router.swift in Sources */,
+				93AE273D2BBB2F980041E43B /* FontExtension.swift in Sources */,
+				93AE27452BBB3CE60041E43B /* NetworkDevice.swift in Sources */,
+				933595F02BBC360C00ABA1B7 /* MagneticDetection.swift in Sources */,
+				933595E62BBBC4CD00ABA1B7 /* MainBackground.swift in Sources */,
+				933595EC2BBBE2DF00ABA1B7 /* ScanResultView.swift in Sources */,
+				93B05AFA2BBC8BC700485B74 /* NavigationPathEnum.swift in Sources */,
+				93AE27412BBB38C10041E43B /* NetworkScanView.swift in Sources */,
 				9358F9F82BBADD0100234BE2 /* FigmaTestProjApp.swift in Sources */,
+				933595EE2BBC043900ABA1B7 /* DeviceDetailsView.swift in Sources */,
+				93AE27432BBB3CA50041E43B /* NetworkScanerVM.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +456,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		93AE27392BBAEDD40041E43B /* XCRemoteSwiftPackageReference "lottie-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-spm.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.4.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		93AE273A2BBAEDD40041E43B /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 93AE27392BBAEDD40041E43B /* XCRemoteSwiftPackageReference "lottie-spm" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 9358F9EC2BBADD0100234BE2 /* Project object */;
 }

@@ -1,0 +1,98 @@
+[
+{
+    "networkName": null,
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": false,
+    "MACAddress": null,
+    "hostName": "gwpc-3241234.local"
+},
+{
+    "networkName": "MacTick-a123",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-63-C2-26",
+    "hostName": "235pc-45741234.local"
+},
+{
+    "networkName": "Phone",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-53-C2-37",
+    "hostName": "zxpc-606141234.local"
+},
+{
+    "networkName": "Ms_12k",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-63-C2-26",
+    "hostName": "vdpc-6791141234.local"
+},
+{
+    "networkName": "Router1 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": false,
+    "MACAddress": "00-B0-D0-45-C2-21",
+    "hostName": "ztpc-781141234.local"
+},
+{
+    "networkName": "Router2 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-13-C5-12",
+    "hostName": "hhpc-22141234.local"
+},
+{
+    "networkName": "Router3 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-45-C2-15",
+    "hostName": "vjpc-232141234.local"
+},
+{
+    "networkName": "Router4 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-25-C2-46",
+    "hostName": "ijpc-21141234.local"
+},
+{
+    "networkName": "Router5 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-25-C2-46",
+    "hostName": "ijpc-2351234.local"
+},
+{
+    "networkName": "Router6 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-25-C2-46",
+    "hostName": "ijpc-41234.local"
+},
+{
+    "networkName": "Router7 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-25-C2-46",
+    "hostName": "ijpc-4571234.local"
+},
+{
+    "networkName": "Router8 Traplun",
+    "connectionType": "Wifi",
+    "ipAddress": "192.168.101",
+    "isAvailable": true,
+    "MACAddress": "00-B0-D0-25-C2-46",
+    "hostName": "ijpc-2541234.local"
+},
+]
